@@ -22,7 +22,7 @@ main {
 }
 
 form {
-  padding: 30px;
+  padding: 20px;
   background-color: white;
   border-radius: 10px;
   box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
@@ -57,6 +57,9 @@ form {
 }
 .poem strong {
   color: #885df1;
+}
+.hidden {
+  display: none;
 }
 footer {
   text-align: center;
